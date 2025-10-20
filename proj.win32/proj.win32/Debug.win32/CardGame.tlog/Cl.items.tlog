@@ -1,0 +1,9 @@
+F:\cardgame\CardGame\Classes\AppDelegate.cpp;F:\cardgame\CardGame\proj.win32\Debug.win32\AppDelegate.obj
+F:\cardgame\CardGame\Classes\Controller\GameController.cpp;F:\cardgame\CardGame\proj.win32\Debug.win32\GameController.obj
+F:\cardgame\CardGame\Classes\MainScene.cpp;F:\cardgame\CardGame\proj.win32\Debug.win32\MainScene.obj
+F:\cardgame\CardGame\Classes\Model\Card.cpp;F:\cardgame\CardGame\proj.win32\Debug.win32\Card.obj
+F:\cardgame\CardGame\Classes\Model\GameModel.cpp;F:\cardgame\CardGame\proj.win32\Debug.win32\GameModel.obj
+F:\cardgame\CardGame\Classes\Model\UndoModel.cpp;F:\cardgame\CardGame\proj.win32\Debug.win32\UndoModel.obj
+F:\cardgame\CardGame\Classes\View\CardView.cpp;F:\cardgame\CardGame\proj.win32\Debug.win32\CardView.obj
+F:\cardgame\CardGame\Classes\View\GameView.cpp;F:\cardgame\CardGame\proj.win32\Debug.win32\GameView.obj
+F:\cardgame\CardGame\proj.win32\main.cpp;F:\cardgame\CardGame\proj.win32\Debug.win32\main.obj
